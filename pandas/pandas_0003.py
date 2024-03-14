@@ -8,7 +8,7 @@ atomic_mass_min = df["AtomicMass"].min()
 
 # Raio atômico
 atomic_radius_max = df["AtomicRadius"].max()
-atomic_radius_min = df["AtomicRadius"].min() 
+atomic_radius_min = df["AtomicRadius"].min()
 
 # Criando um 'set' com os elementos da coluna 'StandardState'
 standard_state = set()
